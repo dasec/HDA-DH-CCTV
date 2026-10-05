@@ -78,11 +78,11 @@ If you use this repository and found it useful for your research, please conside
 
 ```
 @inproceedings{Doersch-DigitalHumans_HeightEstimation-ICPR-2026,
-Author = {A. D{\"o}rsch and C. Busch and C. Rathgeb},
-Booktitle = {Pattern Recognition. {ICPR} 2026 Intl. Workshops and Challenges},
-Keywords = {Biometrics, Fairness},
-Title = {Towards Forensic Height Estimation: Generating Digital Humans in CCTV Environments},
-Note = {Accepted for publication (V3SC Workshop)},
-Year = {2026}
+ Author = {A. D{\"o}rsch and C. Busch and C. Rathgeb},
+ Booktitle = {Pattern Recognition. {ICPR} 2026 Intl. Workshops},
+ Title = {Towards Forensic Height Estimation: Generating Digital Humans in CCTV Environments},
+ Pages = {207--217},
+ Publisher = {Springer Nature Switzerland},
+ Year = {2026}
 }
 ```
